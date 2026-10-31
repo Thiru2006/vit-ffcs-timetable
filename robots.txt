@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thiru2006.github.io/vit-ffcs-timetable/sitemap.xml
